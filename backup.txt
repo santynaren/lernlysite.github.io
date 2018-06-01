@@ -1,0 +1,9 @@
+         <ul class="skills_list_group">
+                        <li class="list-group-item">Teaching Designs and Web</li>
+                        <li class="list-group-item">Android | iOS App Development Training</li>
+                        <li class="list-group-item">IoT and into Basics of ML/AI</li>
+                        <li class="list-group-item">Digital marketing and Internships</li>
+
+                    </ul>
+
+                    
